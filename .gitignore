@@ -1,1 +1,7 @@
+.env
+workspace/aliases.sh
+workspace/insecure_id_rsa
+workspace/insecure_id_rsa.ppk
+workspace/insecure_id_rsa.pub
+workspace/mc/config.json
 /logs
